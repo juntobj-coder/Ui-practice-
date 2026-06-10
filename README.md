@@ -1,2 +1,0 @@
-# Ui-practice-
-UI practice
